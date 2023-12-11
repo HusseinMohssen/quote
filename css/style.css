@@ -1,0 +1,21 @@
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+    font-weight: 700;
+    padding: 50px;
+}
+p {
+    font-size: 35px;
+    padding-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+button {
+    width: 250px;
+    height: 80px;
+    color: white;
+    background-color: blue;
+    margin-bottom: 20px;
+}
+button:hover {
+    background-color: green;
+}
